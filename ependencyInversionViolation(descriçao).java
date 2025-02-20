@@ -1,0 +1,1 @@
+No código fornecido, a classe Switch depende diretamente da classe concreta LightBulb. Essa dependência direta reduz a flexibilidade e reutilização do código, tornando difícil substituir LightBulb por outra implementação sem modificar a classe Switch
